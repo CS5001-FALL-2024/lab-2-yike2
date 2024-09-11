@@ -2,7 +2,6 @@
     CS 5001
     Lab 1
     Exercise 1
-    Name:
     Name: Yike Li
 '''
 
