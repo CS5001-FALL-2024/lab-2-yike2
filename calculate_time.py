@@ -4,6 +4,8 @@
     Exercise 4
     Name:
 '''
+from idlelib.macosx import hideTkConsole
+from sys import get_coroutine_origin_tracking_depth
 
 '''
 Write a Python program to solve the general version of the problem below. Ask the user for the time now (in hours),
