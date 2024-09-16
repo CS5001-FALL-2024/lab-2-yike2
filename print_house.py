@@ -25,7 +25,6 @@ def main():
     print('| .-. |')
     print('| | | |')
     print('+-+-+-+')
-    # YOUR CODE HERE
 
 
 if __name__ == '__main__':
