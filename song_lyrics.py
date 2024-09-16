@@ -12,10 +12,18 @@ lyric on one single line using print.
 '''
 
 def main():
-    lyric_0= "hello"
-    lyric_10= "goodbye"
-    print(lyric_0, lyric_10)
-    
+    lyric_1= "Well"
+    lyric_2= "I"
+    lyric_3= "was"
+    lyric_4= "doubling"
+    lyric_5= "over"
+    lyric_6= "the"
+    lyric_7= "load"
+    lyric_8= "on"
+    lyric_9= "my"
+    lyric_10= "shoulder"
+    print(lyric_1, lyric_2, lyric_3, lyric_4, lyric_5, lyric_6, lyric_7, lyric_8, lyric_9, lyric_10)
+
 
 
 if __name__ == '__main__':
