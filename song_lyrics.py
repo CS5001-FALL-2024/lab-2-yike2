@@ -2,7 +2,7 @@
     CS 5001
     Lab 1
     Exercise 2
-    Name:
+    Name:Yike Li
 '''
 
 '''
@@ -12,7 +12,10 @@ lyric on one single line using print.
 '''
 
 def main():
-    # YOUR CODE HERE
+    lyric_0= "hello"
+    lyric_10= "goodbye"
+    print(lyric_0, lyric_10)
+    
 
 
 if __name__ == '__main__':
