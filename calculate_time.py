@@ -2,7 +2,7 @@
     CS 5001
     Lab 1
     Exercise 4
-    Name:
+    Name: Yike Li
 '''
 from idlelib.macosx import hideTkConsole
 from sys import get_coroutine_origin_tracking_depth
@@ -25,7 +25,16 @@ Your alarm will expire at 3.
 
 
 def main():
-    # YOUR CODE HERE
+    time = input("What time is it?\n")
+    type(time)
+    time = int(time)
+    type(time)
+    period = input("How long until your alarm expires?\n")
+    type(period)
+    period = int(period)
+    type(period)
+    clock = (time + period) % 24
+    print("Your alarm will expire at ", clock, ".")
 
 if __name__ == '__main__':
     main()
