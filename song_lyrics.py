@@ -24,7 +24,5 @@ def main():
     lyric_10= "shoulder"
     print(lyric_1, lyric_2, lyric_3, lyric_4, lyric_5, lyric_6, lyric_7, lyric_8, lyric_9, lyric_10)
 
-
-
 if __name__ == '__main__':
     main()
